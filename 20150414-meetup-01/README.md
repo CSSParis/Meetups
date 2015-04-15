@@ -16,15 +16,12 @@ Même si CSS parait simple aux premiers abords, il n'en est rien. Retour sur les
 
 ## Introduction à Stylus
 
-Présentation de Stylus, le pré-processeur dont on ne parle pas (assez !). Damien nous a aussi présenter d'[Advanced CSS Component](https://github.com/hikkyu/advanced-css-component-stylus).
+Présentation de Stylus, le pré-processeur dont on ne parle pas (assez !). Damien nous a aussi parlé d'[Advanced CSS Component](https://github.com/hikkyu/advanced-css-component-stylus).
 
 - Par [Damien Berseron](https://twitter.com/hikkyu) (Ekino)
 - [Slides](http://slides.com/damienberseron/intro-stylus/)
 
-
 ## Remerciements:
-
-
 
 - [SFEIR](http://www.sfeir.com) pour l'accueil et les pizzas.
 - Tout le monde: merci d'avoir été là et pour vos retours !
