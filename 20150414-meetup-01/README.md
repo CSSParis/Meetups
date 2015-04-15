@@ -1,5 +1,7 @@
 # Meetup #1 (14 avril 2015)
 
+[Nos supers slides d'intro](http://slides.com/siegfriedehret/css-paris-01/)
+
 ## Design émotionnel
 
 Le concept de design émotionnel est présent dans les objets du quotidien et il a naturellement induit des usages et des comportements digitaux. Je souhaite présenter les 7 principes de base qui le structurent, en les illustrant avec des exemples concrets.
