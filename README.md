@@ -3,6 +3,7 @@
 Petit récapitulatif des meetups CSS:
 
 - [Meetup #1 (14 avril 2015)](20150414-meetup-01)
+- [Meetup #2 (7 juillet 2015)](20150707-meetup-02)
 
 Aidez nous, si vous pouvez:
 
