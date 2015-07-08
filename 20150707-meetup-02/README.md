@@ -13,6 +13,7 @@ Ou comment arrêter d'avoir des contenus rectangulaires.
 - Par [Lucas Bonomi](https://twitter.com/LukyVJ) (Tigerlily & Sleek)
 - [Slides](http://slides.com/lukyvj/deck/)
 - [Repo](https://github.com/LukyVj/blendmode-filter-video)
+- [Démo](http://lukyvj.github.io/blendmode-filter-video/)
 
 ## CSS at scale
 
