@@ -19,7 +19,7 @@ Ou comment arrêter d'avoir des contenus rectangulaires.
 
 Un talk sur les côtés négatifs de CSS et des préprocesseurs, quelles techniques et méthodologies apportent des solutions, et une possibilité extrême mais pas déconnante: gérer le style entièrement via JavaScript.
 
-- Par [Matthias Le Brun](https://twitter.com/bloodyowl) (Tigerlily & Sleek)
+- Par [Matthias Le Brun](https://twitter.com/bloodyowl) (Altima)
 - [Slides](https://bloodyowl.github.io/talk-css-at-scale/)
 
 ## Remerciements:
