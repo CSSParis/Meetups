@@ -1,5 +1,7 @@
 # Meetup #2 (07 juillet 2015)
 
+![Voir tout ça en vidéo !](https://www.youtube.com/watch?v=WyFGfMFjfH4)
+
 ## CSS Shapes
 
 Ou comment arrêter d'avoir des contenus rectangulaires.
