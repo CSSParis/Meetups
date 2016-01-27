@@ -2,6 +2,7 @@
 
 Petit récapitulatif des meetups CSS:
 
+- [Meetup #4 (26 janvier 2016)](20160126-meetup-04)
 - [Meetup #3 (20 octobre 2015)](20151020-meetup-03)
 - [Meetup #2 (7 juillet 2015)](20150707-meetup-02)
 - [Meetup #1 (14 avril 2015)](20150414-meetup-01)
