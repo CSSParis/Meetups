@@ -22,7 +22,7 @@
 
 ## Une dernière chose
 
-<img src="dotcss.png" style="background: 000;">
+![](dotcss.png)
 
 Nous sommes partenaires de [dotCSS](http://www.dotcss.io).
 
