@@ -25,7 +25,7 @@ Nous sommes de nouveau partenaires de [dotCSS](http://www.dotcss.io).
 ### Design d'Interface Utilisateur & bonnes pratiques: règles de base et cas pratiques
    
 - Par [Laurent Sébire](https://twitter.com/_TiTAN)
-- Les slides vont arriver bientôt !
+- [Les slides](./UI%20DESIGN%20&%20BONNES%20PRATIQUES%20(Laurent%20sebire%20-%20CssParis%20Meetup).pdf)
 
 ### Scampi - Retour d'expérience sur la construction d'un framework CSS
    
